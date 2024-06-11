@@ -13,7 +13,7 @@ const port = process.env.PORT || 5000;
 // middleware
 const corsOptions = {
   origin: [
-    "realstatekabul.netlify.app",,
+    "https://realstatekabul.netlify.app",,
   ],
   credentials: true,
   optionSuccessStatus: 200,
