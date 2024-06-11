@@ -14,7 +14,8 @@ const port = process.env.PORT || 5000;
 const corsOptions = {
   origin: [
     "http://localhost:5173",
-    "http://localhost:5174",,
+    "http://localhost:5174",
+    https://real-estate-server-qxou.onrender.com,,
   ],
   credentials: true,
   optionSuccessStatus: 200,
