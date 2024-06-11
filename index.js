@@ -15,7 +15,7 @@ const corsOptions = {
   origin: [
     "http://localhost:5173",
     "http://localhost:5174",
-    https://real-estate-server-qxou.onrender.com,,
+    "https://real-estate-server-qxou.onrender.com",,
   ],
   credentials: true,
   optionSuccessStatus: 200,
