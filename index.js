@@ -13,7 +13,7 @@ const port = process.env.PORT || 5000;
 // middleware
 const corsOptions = {
   origin: [
-    "https://real-estate-server-qxou.onrender.com",,
+    "https://bucolic-stroopwafel-e5fd7d.netlify.app/",,
   ],
   credentials: true,
   optionSuccessStatus: 200,
